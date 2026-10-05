@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/mac_venv/
+backend/__pycache__/
+*.pyc
+backend/placement_mentor.db
+backend/.pytest_cache/
+
+# Node
+frontend/node_modules/
+
+# Environment
+.env
+
+# OS
+.DS_Store
